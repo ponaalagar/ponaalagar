@@ -62,10 +62,6 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
 
 ## 🔬 What I’m Currently Learning
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149677.png" width="90"/>
-</p>
-
 - 🧩 **LangChain & Agent Architectures**
 - 👁️ **Advanced Computer Vision pipelines**
 - 🗣️ **NLP with Large Language Models**
@@ -74,10 +70,6 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
 ---
 
 ## 🤝 Looking to Collaborate On
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="90"/>
-</p>
 
 - Machine Learning & Deep Learning projects  
 - **AI Agents & Autonomous Systems**
