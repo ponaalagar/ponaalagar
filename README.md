@@ -56,6 +56,7 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
