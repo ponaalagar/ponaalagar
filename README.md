@@ -77,6 +77,7 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
 - LLM-powered applications
 - Computer Vision solutions for real-world problems
 - Research-oriented or product-driven AI ideas
+- Open source projects 
 
 If you have an idea or an ongoing project and are looking for a collaborator—**let’s build together!**
 
