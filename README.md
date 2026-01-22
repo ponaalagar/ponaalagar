@@ -1,4 +1,4 @@
-#  Hi there 👋, I'm Ponaalagar (@ponaalagar)
+#  Hi there 👋, I'm Orathupalayam Kalimuthu Ponaalagar (@ponaalagar)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-blue?style=for-the-badge"/>
