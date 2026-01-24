@@ -16,6 +16,7 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="90"/>
+  
 </p>
 
 - 🎓 B.Tech student specializing in **AI & Machine Learning**
