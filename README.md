@@ -26,7 +26,6 @@ I’m a passionate and friendly developer with a strong interest in **Machine Le
 - 🌱 Continuous learner who enjoys turning ideas into working prototypes
 
 ---
-
 ## 🛠️ Areas of Interest & Expertise
 
 ### 💡 Core AI Domains
