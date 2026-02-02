@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-green?style=for-the-badge"/>
 </p>
-
 🚀 **Machine Learning Enthusiast | AI Engineer in the Making | Open to Collaboration**
 
 I’m a passionate and friendly developer with a strong interest in **Machine Learning and Artificial Intelligence**. I enjoy building intelligent systems, experimenting with modern AI frameworks, and collaborating with like-minded developers to solve real-world problems.
