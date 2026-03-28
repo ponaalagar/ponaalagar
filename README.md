@@ -87,6 +87,7 @@ If you have an idea or an ongoing project and are looking for a collaborator—*
 
 ## 📫 Connect With Me
 
+
 <p align="center">
   <a href="mailto:ponaalagarok@gmail.com">
     <img src="https://img.shields.io/badge/Email-ponaalagarok%40gmail.com-red?style=for-the-badge&logo=gmail"/>
